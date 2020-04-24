@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo ChangeLanguage</string>
+    <string name="txtHello">สวัสดีชาวโลก!</string>
+    <string name="change">เปลี่ยนภาษา</string>
+    <string name="to_appcompatactivity">ไปยัง AppCompatActivity</string>
+    <string name="to_delegateactivity">ไปยัง DelegateActivity</string>
+</resources>
